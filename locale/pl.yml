@@ -1,0 +1,6 @@
+reflar-latex:
+  admin:
+    settings:
+      prevent_formatting_description: Niektóre rozszerzenia, takie jak Markdown, mogą formatować wyrażenia LaTeX, zanim zostaną zwizualizowane na forum. Po włączeniu tej opcji za każdym razem, gdy zapiszesz post, każde wyrażenie LaTeX zostanie zapakowane przez kod, więc rozszerzenie Markdown ignoruje je.
+      prevent_formatting_warning: Ta opcja modyfikuje zawartość postów przed ich zapisaniem. Podczas wyłączania lub włączania poprzednie wyrażenia pozostaną niezmienione, dopóki nie zostanie edytowany odpowiedni wpis.
+      prevent_formatting_label: Zawijanie wyrażeń LaTeX za pomocą kodu
